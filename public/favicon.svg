@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="genaura" x1=".1" y1="0" x2=".9" y2="1">
+      <stop offset="0" stop-color="#8E3FD0"/>
+      <stop offset=".55" stop-color="#B03A9A"/>
+      <stop offset="1" stop-color="#E3A04A"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="24" fill="#F8F6F3"/>
+  <circle cx="60" cy="60" r="46" fill="none" stroke="url(#genaura)" stroke-width="8"/>
+  <path d="M26 82 Q52 70 60 34 Q68 70 94 82" fill="none" stroke="url(#genaura)" stroke-width="6" stroke-linecap="round"/>
+</svg>
